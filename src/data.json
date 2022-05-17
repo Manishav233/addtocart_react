@@ -1,0 +1,58 @@
+[
+    {
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Fancy Product",
+      "originalPrice": null,
+      "price": "$40.00 - $80.00",
+      "sale": false
+    },
+    {
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Special Item",
+      "originalPrice": "$20.00",
+      "price": "$18.00",
+      "sale": true
+    },
+    {
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Sale Item",
+      "originalPrice": "$50.00",
+      "price": "$25.00",
+      "sale": false
+    },
+    {
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Popular Item",
+      "originalPrice": null,
+      "price": "$40.00",
+      "sale": true
+    },
+    {
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Sale Item",
+      "originalPrice": "$50.00",
+      "price": "$25.00",
+      "sale": false
+    },
+    {
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Fancy Product",
+      "originalPrice": null,
+      "price": "$120.00 - $280.00",
+      "sale": false
+    },
+    {
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Special Item",
+      "originalPrice": "$20.00",
+      "price": "$18.00",
+      "sale": true
+    },
+    {
+      "image": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+      "name": "Popular Item",
+      "originalPrice": null,
+      "price": "$40.00",
+      "sale": false
+    }
+  ]
